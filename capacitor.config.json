@@ -1,6 +1,6 @@
 {
   "appId": "com.tally.attendance",
-  "appName": "Tally",
+  "appName": "Tally Pro",
   "webDir": "dist",
   "android": {
     "allowMixedContent": false
